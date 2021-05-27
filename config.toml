@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://snollygolly.github.io/qrafty-web/"
 languageCode = "en-us"
 title = "QraftyToken"
 theme = "hugo-stellar-theme"
