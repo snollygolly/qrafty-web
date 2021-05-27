@@ -1,14 +1,14 @@
 # Site settings
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Qrafty"
+title = "QraftyToken"
 theme = "hugo-stellar-theme"
 
 googleAnalytics = "" #put your google-analytics ID here
 
 [params]
   [params.header]
-    title = "Qrafty"
+    title = "QraftyToken"
     description = 'A qrafty crypto token to reward great work 🦍🙌💎🚀'
     image = "images/qrafty-logo.svg"
 
@@ -21,7 +21,7 @@ googleAnalytics = "" #put your google-analytics ID here
     href = "#contract-address"
 
   [[params.navigation]]
-    name = "About The Qrafty Token"
+    name = "About QraftyToken"
     href = "#about-qrafty"
 
   [[params.navigation]]
@@ -29,19 +29,19 @@ googleAnalytics = "" #put your google-analytics ID here
     href = "#contributing"
 
   [params.intro]
-    title = "Qrafty Token"
+    title = "QraftyToken"
     description = "We are building the token that will power the future of rewards for praise at Auth0. Collect Qrafty tokens and trade your way to a ticket to the moon! 🚀🌕"
     image = "images/moon-rocket.jpg"
 
   [[params.section]]
     id = "contract-address"
     title = "Contract Address"
-    description = "Qrafty is a BEP-20 token. You can check the offical bscscan here: https://bscscan.com/token/0xad70364909a8a927caa5fc0826686500c7709c93"
+    description = "QraftyToken is a BEP-20 token. You can check the offical bscscan here: https://bscscan.com/token/0xad70364909a8a927caa5fc0826686500c7709c93"
 
   [[params.section]]
     id = "about-qrafty"
-    title = "About The Qraft Token"
-    description = "Qrafty Token is a decentralized cryptocurrency that was created to become the token of reference for the sending praises to fellow Auziros. Our plan for the token is to become a universal means of payment for great work by fellow Auziros."
+    title = "About QraftyToken"
+    description = "QraftyToken is a decentralized cryptocurrency that was created to become the token of reference for the sending praises to fellow Auziros. Our plan for the token is to become a universal means of payment for great work by fellow Auziros."
 
 
   [[params.section]]
@@ -54,4 +54,4 @@ googleAnalytics = "" #put your google-analytics ID here
     # copyright
     [params.footer.copyright]
       enable = true
-      text = "© Qrafty, Design: [HTML5UP](//html5up.net)"
+      text = "© QraftyToken, Design: [HTML5UP](//html5up.net)"
