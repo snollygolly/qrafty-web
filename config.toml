@@ -1,0 +1,48 @@
+# Site settings
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "QraftyCoin"
+theme = "hugo-stellar-theme"
+
+googleAnalytics = "" #put your google-analytics ID here
+
+[params]
+  [params.header]
+    title = "QraftyCoin"
+    description = 'A qrafty crypto token to reward great work 🦍🙌💎🚀'
+    image = "images/qrafty-logo.svg"
+
+  [[params.navigation]]
+    name = "QraftyCoin"
+    href = "#intro"
+
+  [[params.navigation]]
+    name = "Contract Address"
+    href = "#contract-address"
+
+  [[params.navigation]]
+    name = "Contributing"
+    href = "#contributing"
+
+  [params.intro]
+    title = "QraftyCoin"
+    description = "Need to praise your team mates? Reward their great work with Qrafty tokens and trade your way to a ticket to the moon! 🚀🌕"
+    image = "images/moon-rocket.jpg"
+
+  [[params.section]]
+    id = "contract-address"
+    title = "Contract Address"
+    description = "Qrafty is a BEP-20 token. You can check the offical bscscan here: https://bscscan.com/token/0xad70364909a8a927caa5fc0826686500c7709c93"
+
+
+  [[params.section]]
+    id = "contributing"
+    title = "Contributing"
+    description = "Contributions welcome @ https://github.com/snollygolly/qrafty-token"
+
+  [params.footer]
+
+    # copyright
+    [params.footer.copyright]
+      enable = true
+      text = "© QraftyCoin, Design: [HTML5UP](//html5up.net)"

@@ -1,0 +1,6 @@
+[submodule "themes/themes/hugo-stellar-theme"]
+	path = themes/themes/hugo-stellar-theme
+	url = https://github.com/antonpolishko/hugo-stellar-theme
+[submodule "themes/hugo-stellar-theme"]
+	path = themes/hugo-stellar-theme
+	url = https://github.com/antonpolishko/hugo-stellar-theme
