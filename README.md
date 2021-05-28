@@ -1,5 +1,5 @@
 # qrafty-web
-The public facing website for QraftyToken
+The public facing website for QraftyToken - https://snollygolly.github.io/qrafty-web/
 
 # How to contribute
 The website is QraftyToken is statically generated using [Hugo](https://gohugo.io/). To get started:
