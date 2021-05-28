@@ -41,7 +41,7 @@ googleAnalytics = "" #put your google-analytics ID here
   [[params.section]]
     id = "about-qrafty"
     title = "About QraftyToken"
-    description = "QraftyToken is a decentralized cryptocurrency that was created to become the token of reference for the sending praises to coworkers. Our plan for the token is to become a universal means of payment for great work by teammates within any organization."
+    description = "QraftyToken is a decentralized cryptocurrency that was created to become the token of reference for sending praises to coworkers. Our plan for the token is to become a universal means of payment for great work by teammates within any organization."
 
 
   [[params.section]]
