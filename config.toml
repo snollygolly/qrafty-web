@@ -30,7 +30,7 @@ googleAnalytics = "" #put your google-analytics ID here
 
   [params.intro]
     title = "QraftyToken"
-    description = "We are building the token that will power the future of rewards for praise at Auth0. Collect Qrafty tokens and trade your way to a ticket to the moon! 🚀🌕"
+    description = "We are building the token that will power the future of rewards for praise. Collect Qrafty tokens and trade your way to a ticket to the moon! 🚀🌕"
     image = "images/moon-rocket.jpg"
 
   [[params.section]]
@@ -41,7 +41,7 @@ googleAnalytics = "" #put your google-analytics ID here
   [[params.section]]
     id = "about-qrafty"
     title = "About QraftyToken"
-    description = "QraftyToken is a decentralized cryptocurrency that was created to become the token of reference for the sending praises to fellow Auziros. Our plan for the token is to become a universal means of payment for great work by fellow Auziros."
+    description = "QraftyToken is a decentralized cryptocurrency that was created to become the token of reference for the sending praises to coworkers. Our plan for the token is to become a universal means of payment for great work by teammates within any organization."
 
 
   [[params.section]]
